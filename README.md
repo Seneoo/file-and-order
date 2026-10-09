@@ -1,6 +1,9 @@
 <div align="center">
 
-  <h1>🔥 FILE & ORDER // P2P FILE TRANSFER 🔥</h1>
+  <!-- BANNER SVG ANIMATO -->
+  <img src="./banner.svg" alt="File & Order Banner" width="100%">
+
+  <br><br>
   <p><em>Encrypted Peer-to-Peer File Sharing // WebRTC & Local Heuristic Antivirus</em></p>
 
   <hr style="border: 2px solid #a01818; width: 50%;">
@@ -40,4 +43,23 @@
 
 <br>
 
-<div style="background: #111; color: #fff;
+<div style="background: #111; color: #fff; padding: 25px; border: 2px solid #a01818; box-shadow: 8px 8px 0px #a01818;">
+  <h3 style="text-transform: uppercase; margin-top: 0; color: #a01818;">🔒 LICENSE / LICENZA</h3>
+  <p><b>Copyright (c) 2026 Giuseppe Caldarola. All rights reserved.</b></p>
+  <p>This project is proprietary software. No part of this repository or its source code may be reproduced, modified, distributed, or used in any form without prior written permission from the author.</p>
+</div>
+
+<br>
+
+<div align="center">
+  <p><b>🔗 LINKS & DONATIONS</b></p>
+  <a href="https://linktr.ee/giuscald" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-38BDF8?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+  <a href="https://instagram.com/gius.cald" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://revolut.me/caldarola08" target="_blank">
+    <img src="https://img.shields.io/badge/Revolut-0075FF?style=for-the-badge&logo=revolut&logoColor=white" alt="Revolut">
+  </a>
+</div>
