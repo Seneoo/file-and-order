@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <!-- Linguetta del dossier -->
-  <path d="M10 20 h35 l10 15 h35 v50 H10 z" fill="#d9b45a" stroke="#111" stroke-width="6" stroke-linejoin="round"/>
-  <!-- Striscia rossa Top Secret -->
-  <line x1="25" y1="55" x2="75" y2="55" stroke="#a01818" stroke-width="8" stroke-linecap="round"/>
-  <!-- Testo censurato -->
-  <line x1="25" y1="70" x2="50" y2="70" stroke="#111" stroke-width="6" stroke-linecap="round"/>
-</svg>
