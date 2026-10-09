@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/TECH-HTML5%2FCSS3%2FJS-blue?style=for-the-badge" alt="Tech Stack">
     <img src="https://img.shields.io/badge/NETWORK-WebRTC%20%2F%20PeerJS-red?style=for-the-badge" alt="WebRTC">
     <img src="https://img.shields.io/badge/SECURITY-SHA--256%20%26%20DTLS-orange?style=for-the-badge" alt="Security">
+    <img src="https://img.shields.io/badge/LICENSE-ALL%20RIGHTS%20RESERVED-red?style=for-the-badge" alt="License">
   </p>
 
 </div>
@@ -39,15 +40,4 @@
 
 <br>
 
-<div align="center">
-  <p><b>🔗 LINKS & CONTACTS</b></p>
-  <a href="https://linktr.ee/giuscald" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-38BDF8?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-  </a>
-  <a href="https://instagram.com/gius.cald" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://revolut.me/caldarola08" target="_blank">
-    <img src="https://img.shields.io/badge/Revolut-0075FF?style=for-the-badge&logo=revolut&logoColor=white" alt="Revolut">
-  </a>
-</div>
+<div style="background: #111; color: #fff;
