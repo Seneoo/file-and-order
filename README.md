@@ -4,11 +4,10 @@
   <img src="./banner.svg" alt="File & Order Banner" width="100%">
 
   <br><br>
-  <p><em>Encrypted Peer-to-Peer File Sharing // WebRTC & Local Heuristic Antivirus</em></p>
 
-  <hr style="border: 2px solid #a01818; width: 50%;">
+  <img src="./divider.svg" alt="Divider" width="100%">
 
-  <br>
+  <br><br>
 
   <!-- BADGES -->
   <p>
@@ -31,6 +30,13 @@
 
 <br>
 
+<!-- ARCHITECTURE / FLOW DIAGRAM -->
+<div align="center">
+  <img src="./flow.svg" alt="P2P Architecture Flow" width="100%">
+</div>
+
+<br>
+
 <div style="background: #f9f9f9; color: #111; padding: 30px; border: 2px solid #111; box-shadow: 8px 8px 0px #000;">
   <h3 style="text-transform: uppercase; margin-top: 0; color: #a01818;">⚡ CORE HIGHLIGHTS / PUNTI CHIAVE</h3>
   <ul>
@@ -42,6 +48,10 @@
 </div>
 
 <br>
+
+<img src="./divider.svg" alt="Divider" width="100%">
+
+<br><br>
 
 <div style="background: #111; color: #fff; padding: 25px; border: 2px solid #a01818; box-shadow: 8px 8px 0px #a01818;">
   <h3 style="text-transform: uppercase; margin-top: 0; color: #a01818;">🔒 LICENSE / LICENZA</h3>
@@ -59,7 +69,8 @@
   <a href="https://instagram.com/gius.cald" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <br><br>
   <a href="https://revolut.me/caldarola08" target="_blank">
-    <img src="https://img.shields.io/badge/Revolut-0075FF?style=for-the-badge&logo=revolut&logoColor=white" alt="Revolut">
+    <img src="./reward.svg" alt="Offer a Reward via Revolut" width="280">
   </a>
 </div>
